@@ -96,7 +96,8 @@
     <Content Include="images\7.JPG" />
     <Content Include="images\Dateformat.png" />
     <Content Include="Index.html" />
-    <Content Include="Styles\Layout.css" />
+    <Content Include="scripts\DragAndDrop.js" />
+    <Content Include="styles\layout.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -129,7 +130,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Fonts\Jfo.ttf" />
+    <Content Include="fonts\Jfo.ttf" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
