@@ -1,10 +1,10 @@
-@font-face {
-    font-family:jfofont;
-    src:url('../fonts/Jfo.ttf');
+header {
+    font-weight: bolder;
+    text-align: center;
 }
 
 #headername {
-    font-family:jfofont;
+    font-family:Verdana;
     font-size:40px;
     font-weight:bold;
     color:black;
@@ -12,20 +12,33 @@
     margin:8px 0px;
 }
 
+#opentheaters {
+    font-family: Verdana;
+    font-weight: bold;
+    color: #ceaebc;
+ }
+#graygreen {
+    background: linear-gradient(to right, #928e7d, #625948);
+}
+
+p {
+    text-align: center;
+}
 body {
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
     font-family: Verdana;
+    background-color: #789857;
 }
 
 footer {
+    height: 50px;
     clear: both;
-    width: 85%;
-    background-color: #76e6a8;
-    margin: 5px 0px 5px;
-    padding: 5px;
-    -webkit-border-radius: 12px;
+    font-size: 16px;
+    color: #ade327;
+    background-color: #674935;
+    -webkit-border-radius: 40px;
 }
 
 .smalltext {

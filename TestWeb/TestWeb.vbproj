@@ -92,11 +92,10 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="images\07.gif" />
-    <Content Include="images\7.JPG" />
-    <Content Include="images\Dateformat.png" />
+    <Content Include="images\1917.jpg" />
     <Content Include="Index.html" />
     <Content Include="scripts\DragAndDrop.js" />
+    <Content Include="sounds\Deborah.mp3" />
     <Content Include="styles\layout.css" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -130,7 +129,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="fonts\Jfo.ttf" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
