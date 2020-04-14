@@ -7,23 +7,28 @@ header {
     font-family:Verdana;
     font-size:40px;
     font-weight:bold;
-    color:black;
-    padding:15px;
-    margin:8px 0px;
+    text-shadow: 5px 4px 2px #7c0905;
+    color:#9a5628;
 }
 
-#opentheaters {
+.opentheaters {
     font-family: Verdana;
     font-weight: bold;
-    color: #ceaebc;
+    font-style: oblique;
+    color: #f8d824;
  }
+
 #graygreen {
+    clear: both;
     background: linear-gradient(to right, #928e7d, #625948);
+    text-align: center;
+    color: chartreuse;
 }
 
 p {
     text-align: center;
 }
+
 body {
     width: 1000px;
     margin-left: auto;
@@ -44,4 +49,20 @@ footer {
 .smalltext {
     font-size: 10px;
     font-style: italic;
+}
+
+.youtube
+{
+    float: left;
+    margin: 0 50px 0 50px;
+}
+
+a:link
+{
+    text-decoration: none;
+}
+
+a:hover
+{
+    background-color: #3eee13;
 }
